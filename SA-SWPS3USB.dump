@@ -1,0 +1,18 @@
+Itchiptool dump for Smart Ape Power Board with USB Ports & Energy Meter (SA-SWPS3USB)
+
+https://www.mightyape.co.nz/product/smart-ape-smart-wi-fi-3-outlet-surge-protector-powerboard/34462908
+
+I: UPK: Found BK7231N config!
+I: UPK: Switch/plug config
+I: UPK:  - relay 1: pin P9
+I: UPK:  - LED 1: (shared)
+I: UPK:  - relay 2: pin P6
+I: UPK:  - LED 2: (shared)
+I: UPK:  - relay 3: pin P26
+I: UPK:  - LED 3: (shared)
+I: UPK:  - relay 4: pin P14
+I: UPK:  - LED 4: (shared)
+I: UPK:  - all-toggle button: pin P10
+I: UPK: Status LED: pin P23 (shared), inverted True
+I: UPK: Power monitoring chip BL0937: CF/ELE=P8, CF1/VI=P7, SEL=P24
+I: UPK:  - shunt resistor: 1 mΩ
