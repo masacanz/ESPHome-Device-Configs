@@ -1,3 +1,5 @@
+## Smart Ape Power Board with USB Ports & Energy Meter (SA-SWPS3USB) ##
+
 esphome:
   name: upk2esphome-bk7231n
 
