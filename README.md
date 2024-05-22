@@ -1,4 +1,4 @@
-# ESPHome Device Configs
+port from # ESPHome Device Configs
 
 Config files for devices reflashed for use with ESPHome/Home Assistant:
 
@@ -14,4 +14,4 @@ https://github.com/tuya-cloudcutter/tuya-cloudcutter
 
 SA-SWPS3USB.dump - output from Itchiptool
 
-SA-SWPS3USB.yaml - example YAML file
+SA-SWPS3USB.yaml - example YAML file from Itchiptool
