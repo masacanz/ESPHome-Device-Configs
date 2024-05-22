@@ -8,7 +8,7 @@ Config files for devices reflashed for use with ESPHome/Home Assistant:
 
 https://www.mightyape.co.nz/product/smart-ape-smart-wi-fi-3-outlet-surge-protector-powerboard/34462908
 
-Reflashed OTA with tuya-cloudcutter
+Reflashed OTA with tuya-cloudcutter:
 
 https://github.com/tuya-cloudcutter/tuya-cloudcutter
 
