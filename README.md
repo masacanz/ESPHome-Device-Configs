@@ -1,4 +1,4 @@
-port from # ESPHome Device Configs
+# ESPHome Device Configs
 
 Config files for devices reflashed for use with ESPHome/Home Assistant:
 
